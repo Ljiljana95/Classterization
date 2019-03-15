@@ -1,0 +1,7 @@
+PROKOMENTARISATI!!
+//poredimo sa medijanom, trebalo bi da ne osciluje mnogo ali mozda smo 
+lose izabrali prva dva pa osciluje-nije dobro iskonvergirao, najbolje
+ vrednosti uzima k-means iako dosta varira ili ch parameter slabo varira 
+za k-means ali se pokayuje da je bolji average i generalni yakljucak sta 
+nam se cini da je bolje k-means ilii hijerarhijsko npr BOLJE RADI K-MEANS 
+JER SU VREDNOSTI VECE// 
